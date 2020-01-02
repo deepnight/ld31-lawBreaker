@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6ca2c92ce7fd0ebe53ad599aa11afdc5:9fbe7014240ee49cc3a691dd84b6bb7d:8c35c81d6c02a4e8a52d04a540c911af$ -->
+<TextureAtlas imagePath="tiles.png">
+    <SubTexture name="blood" x="324" y="138" width="11" height="5"/>
+    <SubTexture name="buildingFront00" x="238" y="243" width="13" height="11" frameX="0" frameY="-2" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingFront01" x="289" y="243" width="13" height="10" frameX="0" frameY="-2" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingFront02" x="313" y="185" width="13" height="10" frameX="0" frameY="-3" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingFront03" x="292" y="229" width="13" height="12" frameX="0" frameY="-1" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingFront04" x="304" y="244" width="13" height="10" frameX="0" frameY="0" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingFront05" x="319" y="244" width="13" height="10" frameX="0" frameY="-3" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="buildingGround" x="255" y="228" width="13" height="13"/>
+    <SubTexture name="buildingSolo00" x="270" y="228" width="13" height="13"/>
+    <SubTexture name="buildingSolo01" x="312" y="197" width="13" height="13"/>
+    <SubTexture name="bullet" x="367" y="213" width="9" height="7"/>
+    <SubTexture name="car00" x="328" y="192" width="6" height="3"/>
+    <SubTexture name="car01" x="42" y="251" width="6" height="3"/>
+    <SubTexture name="car02" x="50" y="251" width="6" height="3"/>
+    <SubTexture name="car03" x="58" y="251" width="6" height="3"/>
+    <SubTexture name="car04" x="66" y="251" width="6" height="3"/>
+    <SubTexture name="carSide00" x="74" y="251" width="6" height="3"/>
+    <SubTexture name="carSide01" x="82" y="251" width="6" height="3"/>
+    <SubTexture name="carSide02" x="90" y="251" width="6" height="3"/>
+    <SubTexture name="carSide03" x="362" y="132" width="6" height="3"/>
+    <SubTexture name="carSide04" x="370" y="148" width="6" height="3"/>
+    <SubTexture name="coin0" x="370" y="48" width="6" height="6" frameX="-1" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="coin1" x="370" y="132" width="6" height="6" frameX="-1" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="coin2" x="368" y="222" width="4" height="6" frameX="-2" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="coin3" x="364" y="234" width="2" height="6" frameX="-3" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="coin4" x="368" y="230" width="4" height="6" frameX="-2" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="coin5" x="370" y="140" width="6" height="6" frameX="-1" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="dark" x="134" y="2" width="141" height="141"/>
+    <SubTexture name="explosion_00" x="100" y="221" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_01" x="132" y="223" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_02" x="169" y="200" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_03" x="338" y="138" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_04" x="338" y="170" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_05" x="201" y="200" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="explosion_06" x="233" y="194" width="30" height="30" frameX="-1" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="fire" x="370" y="38" width="6" height="8" frameX="-1" frameY="0" frameWidth="7" frameHeight="9"/>
+    <SubTexture name="gouranga0" x="370" y="168" width="4" height="7" frameX="-1" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="gouranga1" x="370" y="177" width="4" height="7" frameX="-1" frameY="0" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="gouranga2" x="374" y="85" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="gouranga3" x="370" y="186" width="4" height="7" frameX="-1" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="gouranga4" x="346" y="224" width="4" height="7" frameX="-1" frameY="0" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="gouranga5" x="164" y="223" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="grass0" x="307" y="229" width="13" height="13"/>
+    <SubTexture name="grass1" x="322" y="229" width="13" height="13"/>
+    <SubTexture name="guyIdle0" x="373" y="153" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk0" x="346" y="233" width="4" height="7" frameX="-1" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk1" x="343" y="244" width="4" height="7" frameX="-1" frameY="0" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk2" x="364" y="225" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk3" x="352" y="229" width="4" height="7" frameX="-1" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk4" x="358" y="229" width="4" height="7" frameX="-1" frameY="0" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="guyWalk5" x="374" y="222" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="8"/>
+    <SubTexture name="halo0" x="214" y="145" width="48" height="47" frameX="0" frameY="-1" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="halo1" x="264" y="145" width="47" height="47" frameX="-1" frameY="-1" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="heart" x="337" y="235" width="7" height="7" frameX="-5" frameY="-5" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="heli" x="205" y="249" width="14" height="5" frameX="0" frameY="0" frameWidth="16" frameHeight="5"/>
+    <SubTexture name="heliBlades" x="353" y="202" width="12" height="12" frameX="0" frameY="0" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="heliShadow" x="188" y="249" width="15" height="5" frameX="0" frameY="0" frameWidth="16" frameHeight="5"/>
+    <SubTexture name="heliSide" x="221" y="249" width="14" height="5" frameX="0" frameY="0" frameWidth="16" frameHeight="5"/>
+    <SubTexture name="heliSpot" x="324" y="57" width="39" height="39" frameX="-4" frameY="-5" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="itemBase00" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase01" x="328" y="212" width="7" height="9" frameX="-6" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase02" x="367" y="202" width="9" height="9" frameX="-6" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase03" x="365" y="70" width="9" height="13" frameX="-6" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase04" x="227" y="232" width="9" height="15" frameX="-6" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase05" x="311" y="212" width="12" height="15" frameX="-3" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase06" x="210" y="232" width="15" height="15" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase07" x="294" y="212" width="15" height="15" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemBase08" x="238" y="226" width="15" height="15" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemCherry" x="327" y="197" width="9" height="13" frameX="-3" frameY="-1" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemLove" x="337" y="235" width="7" height="7" frameX="-5" frameY="-5" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemMoney" x="365" y="85" width="7" height="11" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="itemPickZone" x="365" y="57" width="11" height="11" frameX="-1" frameY="-1" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="itemStar" x="267" y="243" width="9" height="11" frameX="-3" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="logo" x="2" y="2" width="130" height="183" frameX="-96" frameY="-8" frameWidth="320" frameHeight="200"/>
+    <SubTexture name="map" x="134" y="200" width="33" height="21"/>
+    <SubTexture name="road" x="338" y="202" width="13" height="13"/>
+    <SubTexture name="roadLine0" x="364" y="216" width="1" height="7" frameX="-6" frameY="0" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadLine1" x="98" y="253" width="7" height="1" frameX="-6" frameY="-6" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadLine2" x="364" y="216" width="1" height="7" frameX="-6" frameY="-6" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadLine3" x="98" y="253" width="7" height="1" frameX="0" frameY="-6" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadStop0" x="107" y="253" width="7" height="1" frameX="-3" frameY="-1" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadStop1" x="361" y="220" width="1" height="7" frameX="-11" frameY="-3" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadStop2" x="107" y="253" width="7" height="1" frameX="-3" frameY="-11" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="roadStop3" x="361" y="220" width="1" height="7" frameX="-1" frameY="-3" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="rstar" x="337" y="224" width="7" height="9" frameX="-3" frameY="-2" frameWidth="13" frameHeight="13"/>
+    <SubTexture name="shadow" x="353" y="216" width="9" height="2"/>
+    <SubTexture name="shield" x="278" y="243" width="9" height="11" frameX="-3" frameY="-3" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="shieldPlus" x="253" y="243" width="12" height="11" frameX="0" frameY="-3" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="siren0" x="334" y="244" width="7" height="7"/>
+    <SubTexture name="siren1" x="352" y="220" width="7" height="7"/>
+    <SubTexture name="smallSmoke" x="294" y="194" width="16" height="16"/>
+    <SubTexture name="smoke" x="100" y="187" width="32" height="32"/>
+    <SubTexture name="tank" x="337" y="217" width="10" height="5" frameX="-2" frameY="0" frameWidth="12" frameHeight="5"/>
+    <SubTexture name="tankSide" x="328" y="185" width="8" height="5" frameX="-2" frameY="0" frameWidth="12" frameHeight="5"/>
+    <SubTexture name="tiles_02" x="164" y="232" width="22" height="22" frameX="-61" frameY="-6" frameWidth="479" frameHeight="28"/>
+    <SubTexture name="tiles_03" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="33" frameHeight="11"/>
+    <SubTexture name="tiles_04" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="307" frameHeight="8"/>
+    <SubTexture name="tiles_06" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="31" frameHeight="484"/>
+    <SubTexture name="tiles_07" x="328" y="223" width="6" height="2" frameX="-7" frameY="-2" frameWidth="16" frameHeight="4"/>
+    <SubTexture name="tiles_09" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="10" frameHeight="5"/>
+    <SubTexture name="tiles_10" x="370" y="2" width="6" height="34" frameX="0" frameY="-1" frameWidth="6" frameHeight="42"/>
+    <SubTexture name="tiles_105" x="277" y="57" width="45" height="86" frameX="0" frameY="0" frameWidth="155" frameHeight="96"/>
+    <SubTexture name="tiles_107" x="277" y="57" width="45" height="86" frameX="0" frameY="0" frameWidth="155" frameHeight="96"/>
+    <SubTexture name="tiles_109" x="277" y="57" width="45" height="86" frameX="0" frameY="0" frameWidth="155" frameHeight="96"/>
+    <SubTexture name="tiles_111" x="277" y="2" width="91" height="53" frameX="0" frameY="-6" frameWidth="91" frameHeight="70"/>
+    <SubTexture name="tiles_112" x="313" y="145" width="23" height="38" frameX="-3" frameY="-7" frameWidth="26" frameHeight="57"/>
+    <SubTexture name="tiles_113" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="141" frameHeight="343"/>
+    <SubTexture name="tiles_117" x="277" y="2" width="91" height="53" frameX="0" frameY="-6" frameWidth="91" frameHeight="70"/>
+    <SubTexture name="tiles_118" x="313" y="145" width="23" height="38" frameX="-3" frameY="-7" frameWidth="26" frameHeight="57"/>
+    <SubTexture name="tiles_119" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="141" frameHeight="343"/>
+    <SubTexture name="tiles_12" x="325" y="212" width="1" height="15" frameX="0" frameY="-22" frameWidth="1" frameHeight="42"/>
+    <SubTexture name="tiles_120" x="313" y="145" width="23" height="38" frameX="-3" frameY="-7" frameWidth="26" frameHeight="57"/>
+    <SubTexture name="tiles_121" x="277" y="2" width="91" height="53" frameX="0" frameY="-6" frameWidth="91" frameHeight="70"/>
+    <SubTexture name="tiles_122" x="134" y="145" width="78" height="53" frameX="0" frameY="-6" frameWidth="78" frameHeight="70"/>
+    <SubTexture name="tiles_123" x="324" y="98" width="36" height="38" frameX="-3" frameY="-7" frameWidth="39" frameHeight="57"/>
+    <SubTexture name="tiles_124" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="141" frameHeight="343"/>
+    <SubTexture name="tiles_127" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="320"/>
+    <SubTexture name="tiles_128" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="224" frameHeight="16"/>
+    <SubTexture name="tiles_129" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="320"/>
+    <SubTexture name="tiles_13" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="30" frameHeight="1"/>
+    <SubTexture name="tiles_130" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="224" frameHeight="16"/>
+    <SubTexture name="tiles_131" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="320"/>
+    <SubTexture name="tiles_132" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="320"/>
+    <SubTexture name="tiles_133" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="224" frameHeight="16"/>
+    <SubTexture name="tiles_134" x="362" y="115" width="13" height="15" frameX="0" frameY="-62" frameWidth="13" frameHeight="259"/>
+    <SubTexture name="tiles_138" x="2" y="187" width="96" height="62" frameX="0" frameY="-12" frameWidth="96" frameHeight="256"/>
+    <SubTexture name="tiles_139" x="188" y="232" width="20" height="15" frameX="0" frameY="-75" frameWidth="67" frameHeight="272"/>
+    <SubTexture name="tiles_140" x="362" y="115" width="13" height="15" frameX="0" frameY="-62" frameWidth="13" frameHeight="259"/>
+    <SubTexture name="tiles_141" x="188" y="232" width="20" height="15" frameX="0" frameY="-75" frameWidth="67" frameHeight="272"/>
+    <SubTexture name="tiles_142" x="362" y="115" width="13" height="15" frameX="0" frameY="-62" frameWidth="13" frameHeight="259"/>
+    <SubTexture name="tiles_143" x="188" y="232" width="20" height="15" frameX="0" frameY="-75" frameWidth="67" frameHeight="272"/>
+    <SubTexture name="tiles_144" x="188" y="232" width="20" height="15" frameX="0" frameY="-75" frameWidth="67" frameHeight="272"/>
+    <SubTexture name="tiles_145" x="362" y="115" width="13" height="15" frameX="0" frameY="-62" frameWidth="13" frameHeight="259"/>
+    <SubTexture name="tiles_146" x="2" y="187" width="96" height="62" frameX="0" frameY="-12" frameWidth="96" frameHeight="256"/>
+    <SubTexture name="tiles_148" x="2" y="187" width="96" height="62" frameX="0" frameY="-12" frameWidth="96" frameHeight="256"/>
+    <SubTexture name="tiles_149" x="2" y="187" width="96" height="62" frameX="0" frameY="-12" frameWidth="96" frameHeight="256"/>
+    <SubTexture name="tiles_15" x="2" y="251" width="38" height="2" frameX="-10" frameY="-10" frameWidth="265" frameHeight="12"/>
+    <SubTexture name="tiles_150" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="211"/>
+    <SubTexture name="tiles_155" x="362" y="98" width="14" height="15" frameX="-29" frameY="-19" frameWidth="43" frameHeight="216"/>
+    <SubTexture name="tiles_156" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="211"/>
+    <SubTexture name="tiles_157" x="362" y="98" width="14" height="15" frameX="-29" frameY="-19" frameWidth="43" frameHeight="216"/>
+    <SubTexture name="tiles_158" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="211"/>
+    <SubTexture name="tiles_159" x="362" y="98" width="14" height="15" frameX="-29" frameY="-19" frameWidth="43" frameHeight="216"/>
+    <SubTexture name="tiles_16" x="334" y="253" width="4" height="1" frameX="0" frameY="-19" frameWidth="4" frameHeight="20"/>
+    <SubTexture name="tiles_160" x="362" y="98" width="14" height="15" frameX="-29" frameY="-19" frameWidth="43" frameHeight="216"/>
+    <SubTexture name="tiles_161" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="211"/>
+    <SubTexture name="tiles_18" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="41"/>
+    <SubTexture name="tiles_20" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="14"/>
+    <SubTexture name="tiles_22" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="14"/>
+    <SubTexture name="tiles_24" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="48"/>
+    <SubTexture name="tiles_26" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="2" frameHeight="12"/>
+    <SubTexture name="tiles_27" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="1"/>
+    <SubTexture name="tiles_28" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="1"/>
+    <SubTexture name="tiles_29" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="1"/>
+    <SubTexture name="tiles_30" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="1"/>
+    <SubTexture name="tiles_31" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="1"/>
+    <SubTexture name="tiles_32" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="7" frameHeight="16"/>
+    <SubTexture name="tiles_38" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="12" frameHeight="1"/>
+    <SubTexture name="tiles_40" x="283" y="194" width="9" height="30" frameX="0" frameY="0" frameWidth="9" frameHeight="35"/>
+    <SubTexture name="tiles_41" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="13"/>
+    <SubTexture name="tiles_42" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="7"/>
+    <SubTexture name="tiles_43" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="7"/>
+    <SubTexture name="tiles_44" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="7"/>
+    <SubTexture name="tiles_45" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="5"/>
+    <SubTexture name="tiles_46" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="12" frameHeight="2"/>
+    <SubTexture name="tiles_47" x="349" y="242" width="1" height="6" frameX="-4" frameY="-18" frameWidth="5" frameHeight="48"/>
+    <SubTexture name="tiles_53" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="68" frameHeight="464"/>
+    <SubTexture name="tiles_54" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="36"/>
+    <SubTexture name="tiles_56" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="47"/>
+    <SubTexture name="tiles_57" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="3" frameHeight="27"/>
+    <SubTexture name="tiles_59" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="34"/>
+    <SubTexture name="tiles_60" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="16" frameHeight="2"/>
+    <SubTexture name="tiles_61" x="285" y="226" width="5" height="15" frameX="0" frameY="-1" frameWidth="5" frameHeight="21"/>
+    <SubTexture name="tiles_63" x="370" y="153" width="1" height="13" frameX="0" frameY="-1" frameWidth="5" frameHeight="21"/>
+    <SubTexture name="tiles_65" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="13" frameHeight="23"/>
+    <SubTexture name="tiles_66" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="16" frameHeight="3"/>
+    <SubTexture name="tiles_67" x="116" y="253" width="5" height="1" frameX="-1" frameY="0" frameWidth="7" frameHeight="1"/>
+    <SubTexture name="tiles_68" x="265" y="194" width="16" height="32"/>
+    <SubTexture name="tiles_71" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="16" frameHeight="7"/>
+    <SubTexture name="tiles_72" x="123" y="253" width="5" height="1" frameX="-1" frameY="0" frameWidth="7" frameHeight="6"/>
+    <SubTexture name="tiles_73" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="2" frameHeight="18"/>
+    <SubTexture name="tiles_75" x="374" y="231" width="2" height="7" frameX="-2" frameY="-1" frameWidth="6" frameHeight="18"/>
+    <SubTexture name="tiles_82" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="3" frameHeight="7"/>
+    <SubTexture name="tiles_83" x="214" y="194" width="16" height="2" frameX="-9" frameY="0" frameWidth="32" frameHeight="16"/>
+    <SubTexture name="tiles_84" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="11"/>
+    <SubTexture name="tiles_86" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="9" frameHeight="4"/>
+    <SubTexture name="tiles_87" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="10"/>
+    <SubTexture name="tiles_88" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="36" frameHeight="2"/>
+    <SubTexture name="tiles_89" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="9" frameHeight="2"/>
+    <SubTexture name="tiles_90" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="8"/>
+    <SubTexture name="tiles_96" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="7"/>
+    <SubTexture name="tiles_97" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="13" frameHeight="8"/>
+    <SubTexture name="tiles_98" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="6" frameHeight="7"/>
+    <SubTexture name="tiles_99" x="340" y="253" width="1" height="1" frameX="0" frameY="0" frameWidth="11" frameHeight="2"/>
+    <SubTexture name="tinyCoin" x="370" y="195" width="5" height="5"/>
+</TextureAtlas>

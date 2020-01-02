@@ -1,0 +1,10 @@
+-cp src
+-cp assets
+-swf swf/client.swf
+-swf-header 1280:800:30:FFFFFF
+-swf-lib "obj\ld31 - One ScreenResources.swf"
+--flash-strict
+-swf-version 11.3
+-main Main
+-D standalone
+-D spriteParticles
